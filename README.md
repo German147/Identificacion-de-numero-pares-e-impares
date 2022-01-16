@@ -18,6 +18,11 @@ Kind of Small desktop Java app applying some concept about Java Swing User Inter
 * Java 1.8
 * javax.swing.JFrame 
 ````
+### Implementations
+
+````
+If conditionals
+````
 
 ## Setup
 To run this project, install it locally, open it into your IDE,set the JDK 1.8 and click run on the main class.
